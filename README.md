@@ -1,9 +1,4 @@
 # QA Automation Portfolio
-
-> **This repository was created specifically as a public QA portfolio and contains no proprietary or employer code, data, test cases, or confidential information.**
-
-This project demonstrates a practical, risk-based automation approach for web UI, REST API, and mocked AI-response testing. It is designed as portfolio evidence for Senior QA and freelance work, not as a tutorial framework. All scenarios and test data were created for this public demo.
-
 ## Technology stack
 
 - Playwright Test and TypeScript
